@@ -15,7 +15,7 @@ public class CRGRFirstProgram {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("I hope the entire class has a wonderful day!");
+System.out.println("Now we will add two numbers using variables!");
 	}
 
 }
