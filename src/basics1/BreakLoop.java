@@ -10,7 +10,7 @@ public class BreakLoop {
 	public static void main(String[] args) {
 		
 
-// String tells types, [] says array, populate individual names/strings with double quotes
+// String tells types, square brackets mean array, populate individual names or strings with double quotes
 		
 		String[] listOfNames = {"Tracy", "Doe", "Cat", "Bob", "Joe", "Sam"};
 		
