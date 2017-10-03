@@ -13,7 +13,7 @@ public class AverageAllElementsInArray {
 		}
 		double average;
 		average = sum / numberList.length;
-		System.out.println("The average of elements is " + average);
+		System.out.println("The average of elements is: " + average);
 	}
 
 }
