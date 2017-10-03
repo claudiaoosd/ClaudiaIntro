@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class DaysOfWeek {
 
 	public static void main(String[] args) {
-		System.out.println("Please enter nunber between 1 and 7 for day of week where 1 is for Monday, 2 is for Tuesday, et cetera: ");
+		System.out.println("Please enter number between 1 and 7 for day of week where 1 is for Monday, 2 is for Tuesday, et cetera: ");
 		int dayNumber = new Scanner(System.in).nextInt();
 		String dayString;
 		switch (dayNumber) {
